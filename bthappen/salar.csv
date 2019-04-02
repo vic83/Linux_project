@@ -1,0 +1,145 @@
+,,Koordinater,,,,,,
+Salsnr,Salsnamn,Lat,Long,Ort,Hus,Våning,Typ,Storlek
+2-116,Ganges,,,Karlshamn,,,Övrigt,
+2-128,Mississippi,,,Karlshamn,,1,Övrigt,
+2-129,Donau,,,Karlshamn,,,Övrigt,
+2-208,Videored-rum 1,,,Karlshamn,,,Övrigt,
+2-209,Videored-rum 2,,,Karlshamn,,,Övrigt,
+2-210,Videored-rum 3,,,Karlshamn,,,Övrigt,
+2-211,Ljudrum 5,,,Karlshamn,,,Övrigt,
+2-212,Ljudrum 4,,,Karlshamn,,,Övrigt,
+2-213,Ljudrum 3,,,Karlshamn,,,Övrigt,
+2-214,Ljudrum 2,,,Karlshamn,,,Övrigt,
+2-215,Ljudrum 1,,,Karlshamn,,,Övrigt,
+2-218,Studio1,,,Karlshamn,,,Övrigt,
+3-104,Ateljén,,,Karlshamn,,,Övrigt,100
+3-112,Referensrummet,,,Karlshamn,,,Övrigt,
+3-120,Arkham,,,Karlshamn,,,Övrigt,
+3-145,Modellverkstad,,,Karlshamn,,,Övrigt,
+3-225,,,,Karlshamn,,,Övrigt,15
+3-226,,,,Karlshamn,,,Övrigt,15
+3-242,Projektrum 4,,,Karlshamn,,,Grupprum,5
+A303,Monsunen,,,Karlskrona,A-huset,3,Konferensrum,18
+A311,Mistralen,,,Karlskrona,A-huset,3,Konferensrum,8
+A312,Passaden,,,Karlskrona,A-huset,3,Konferensrum,6
+C216,,,,Karlskrona,C-huset,2,Föreläsningssal,80
+C235,,,,Karlskrona,C-huset,2,Föreläsningssal,40
+C236,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C237,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C244,,,,Karlskrona,C-huset,2,Datorsal,14
+C245,,,,Karlskrona,C-huset,2,Föreläsningssal,30
+C313A,,,,Karlskrona,C-huset,3,Föreläsningssal,80
+C334,,,,Karlskrona,C-huset,3,Föreläsningssal,40
+C335,LCDM,,,Karlskrona,C-huset,3,Övrigt,
+C336,LCDM,,,Karlskrona,C-huset,3,Övrigt,
+C341,LCDM,,,Karlskrona,C-huset,3,Övrigt,
+C342,,,,Karlskrona,C-huset,3,Grupprum,
+C344,Seminarierum,,,Karlskrona,C-huset,3,Övrigt,16
+C413A,,,,Karlskrona,C-huset,4,Föreläsningssal,80
+C444,,,,Karlskrona,C-huset,4,Grupprum,
+C513A,Atelje,,,Karlskrona,C-huset,5,Föreläsningssal,50
+C541,,,,Karlskrona,C-huset,5,Konferensrum,
+G207,,,,Karlskrona,G-huset,2,Konferensrum,16
+G210,,,,Karlskrona,G-huset,2,Datorsal,16
+G211,,,,Karlskrona,G-huset,2,Datorsal,16
+G307,DeSilling,,,Karlskrona,G-huset,3,Grupprum,
+G310A,Fysiklabb,,,Karlskrona,G-huset,3,Labrationssal,30
+G311,Technical Artist,,,Karlskrona,G-huset,3,Övrigt,
+G312A,,,,Karlskrona,G-huset,3,Datorsal,28
+G313,VPA,,,Karlskrona,G-huset,3,Övrigt,
+G319-A,,,,Karlskrona,G-huset,3,Övrigt,
+G319-B,,,,Karlskrona,G-huset,3,Övrigt,
+G319-C,,,,Karlskrona,G-huset,3,Övrigt,
+G332,Demonstrationslabb,,,Karlskrona,G-huset,3,Labrationssal,
+G340,,,,Karlskrona,G-huset,3,Föreläsningssal,90
+G404,,,,Karlskrona,G-huset,4,Föreläsningssal,90
+G410,CNAP 1,,,Karlskrona,G-huset,4,Labrationssal,
+G411,CNAP 2,,,Karlskrona,G-huset,4,Labrationssal,
+G412,Netseclab,,,Karlskrona,G-huset,4,Labrationssal,
+G414,Seclab/Realtidslab,,,Karlskrona,G-huset,4,Labrationssal,16
+G427,Spellabb,,,Karlskrona,G-huset,4,Labrationssal,
+G511,ElektronikLabb,,,Karlskrona,G-huset,5,Labrationssal,
+G513,CAD-sal,,,Karlskrona,G-huset,5,Labrationssal,30
+H206C,Dragsö,,,Karlskrona,H-huset,2,Grupprum,7
+H206D,Ekholmen,,,Karlskrona,H-huset,2,Grupprum,7
+H206E,Hästö,,,Karlskrona,H-huset,2,Grupprum,7
+H206F,Lindholmen,,,Karlskrona,H-huset,2,Grupprum,7
+H206H,Aspö,,,Karlskrona,H-huset,,Konferensrum,10
+H313,IT-Verkstad,,,Karlskrona,H-huset,3,Datorsal,
+H315C,Connection,,,Karlskrona,H-huset,3,Grupprum,
+H315D,Vintage,,,Karlskrona,H-huset,3,Grupprum,
+H315G,Långö,,,Karlskrona,H-huset,3,Konferensrum,16
+H320,,,,Karlskrona,H-huset,3,Datorsal,20
+H321,,,,Karlskrona,H-huset,3,Datorsal,20
+H322,,,,Karlskrona,H-huset,3,Datorsal,20
+H326,,,,Karlskrona,H-huset,3,Grupprum,6
+H327,,,,Karlskrona,H-huset,3,Grupprum,6
+H328,,,,Karlskrona,H-huset,3,Grupprum,6
+H329,,,,Karlskrona,H-huset,3,Grupprum,6
+H330,,,,Karlskrona,H-huset,3,Grupprum,8
+H338,Wämö,,,Karlskrona,,,Grupprum,7
+H339,Verkö,,,Karlskrona,H-huset,3,Grupprum,7
+H340,Trossö,,,Karlskrona,H-huset,3,Grupprum,7
+H341,Stakholmen,,,Karlskrona,H-huset,3,Grupprum,7
+H342,Saltö,,,Karlskrona,H-huset,3,Grupprum,7
+H428A,,,,Karlskrona,H-huset,4,Datorsal,16
+H429,,,,Karlskrona,H-huset,4,Datorsal,
+H430,Unixlabb,,,Karlskrona,H-huset,4,Labrationssal,
+H445A,Grace Hopper,,,Karlskrona,H-huset,4,Konferensrum,6
+H470,3D-labb,,,Karlskrona,H-huset,4,Labrationssal,
+H474,Sketchlabb,,,Karlskrona,H-huset,4,Labrationssal,
+H475,Naked Lunch,,,Karlskrona,H-huset,4,Grupprum,
+H478,Charles Babbage,,,Karlskrona,H-huset,4,Konferensrum,6
+H506A,Grupprum E,,,Karlskrona,H-huset,5,Grupprum,
+H506B,Grupprum G,,,Karlskrona,H-huset,5,Grupprum,
+H506C,Grupprum F,,,Karlskrona,H-huset,5,Grupprum,
+H507A,Grupprum A,,,Karlskrona,H-huset,5,Grupprum,
+H507B,Grupprum B,,,Karlskrona,H-huset,5,Grupprum,
+H507C,Grupprum C,,,Karlskrona,H-huset,5,Grupprum,
+H509,Metodövningsrum 3,,,Karlskrona,H-huset,5,Övrigt,
+H516A,Grupprum D,,,Karlskrona,H-huset,5,Grupprum,
+H516B,Metodövningsrum 1,,,Karlskrona,H-huset,5,Övrigt,
+H516C,Metodövningsrum 2,,,Karlskrona,H-huset,5,Övrigt,
+H528A,Hälsostudion,,,Karlskrona,H-huset,5,Övrigt,
+J1270,,56.182804,15.590341,Karlskrona,J-huset,1,Föreläsningssal,40
+J1280,,56.182747,15.590367,Karlskrona,J-huset,1,Föreläsningssal,25
+J1360,,56.182885,15.590481,Karlskrona,J-huset,1,Föreläsningssal,50
+J1504,Multisalen,56.183292,15.590056,Karlskrona,J-huset,1,Föreläsningssal,150
+J1610,,56.183264,15.590426,Karlskrona,J-huset,1,Föreläsningssal,68
+J1620,,56.183184,15.590468,Karlskrona,J-huset,1,Föreläsningssal,68
+J1630,,56.183084,15.590506,Karlskrona,J-huset,1,Föreläsningssal,68
+J1640,,56.182991 ,15.590552,Karlskrona,J-huset,1,Föreläsningssal,61
+J1650,,56.182914,15.590612,Karlskrona,J-huset,1,Föreläsningssal,61
+J2135,John Von Neumann,,,Karlskrona,J-huset,2,Konferensrum,6
+J2229,Hajen,,,Karlskrona,J-huset,2,Konferensrum,
+J2309,Triangeln,,,Karlskrona,J-huset,2,Konferensrum,8
+J2310,Cirkeln,,,Karlskrona,J-huset,2,Konferensrum,12
+J2418,Valen,,,Karlskrona,J-huset,4,Konferensrum,
+J2505,Sälen,,,Karlskrona,J-huset,2,Konferensrum,
+J2506,Webbrum,,,Karlskrona,,,Konferensrum,
+J2603,Uttern,,,Karlskrona,J-huset,2,Konferensrum,
+J3135,Herbert Simon,,,Karlskrona,J-huset,3,Konferensrum,6
+J3202,John Atanasoff,,,Karlskrona,J-huset,3,Konferensrum,
+J3204,Kurt Gödel,,,Karlskrona,J-huset,3,Konferensrum,6
+J3208,Claude Shannon,,,Karlskrona,J-huset,3,Konferensrum,12
+J3229,Edith Clarke,,,Karlskrona,J-huset,3,Konferensrum,4
+J3306,Blaise Pascal,,,Karlskrona,J-huset,3,Konferensrum,6
+J3309,Oktaedern,,,Karlskrona,J-huset,3,Konferensrum,10
+J3310,Dodekaedern,,,Karlskrona,J-huset,3,Konferensrum,14
+J3423,Aristoteles,,,Karlskrona,J-huset,3,Konferensrum,12
+J3506,Platon,,,Karlskrona,J-huset,3,Konferensrum,16
+J3514,Kuben,,,Karlskrona,J-huset,3,Konferensrum,10
+J4123,,,,Karlskrona,J-huset,4,Konferensrum,8
+J4209,,,,Karlskrona,J-huset,4,Konferensrum,10
+J4228,Utsikten,,,Karlskrona,J-huset,4,Konferensrum,25
+J4330,,,,Karlskrona,J-huset,4,Konferensrum,8
+J4333,,,,Karlskrona,J-huset,4,Konferensrum,10
+,Bataljen,,,Karlskrona,,,Konferensrum,
+,Bryggan,,,Karlshamn,,,Konferensrum,18
+,Dialogen,,,Karlskrona,,,Konferensrum,14
+,Freden,,,Karlskrona,,,Konferensrum,10
+,Hoppet,,,Karlskrona,,,Konferensrum,
+,Lugnet,,,Karlskrona,,,Konferensrum,10
+,Landstingssalen,,,Karlskrona,Wämö Center,,Föreläsningssal,150
+,Sturkö,,,Karlskrona,H-huset,,Konferensrum,8
+,Tjurkö,,,Karlskrona,H-huset,,Konferensrum,
